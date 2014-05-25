@@ -1,0 +1,26 @@
+{
+  "name": "simple-child",
+  "version": "0.0.0",
+  "description": "Simple child process management",
+  "main": "simple-child.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sonewman/simple-child.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sonewman/simple-child/issues"
+  },
+  "homepage": "https://github.com/sonewman/simple-child",
+  "author": "Sam Newman",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "~2.12.0",
+    "tap": "~0.4.8"
+  }
+}
