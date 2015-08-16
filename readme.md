@@ -29,3 +29,5 @@ myFunkyStream
 ```
 In this example it would pipe the output from `myFunkyStream` to the child process via `process.stdin` and pipe out anything, which is written to `process.stdout` or `process.stderr` inside the child to our outter `process.stdout` !!
 
+## License
+MIT
